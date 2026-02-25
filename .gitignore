@@ -1,0 +1,27 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# PyInstaller
+build/
+dist/
+*.spec
+
+# Environmental
+.env
+.venv
+env/
+venv/
+ENV/
+
+# Data and outputs
+*.csv
+*.zip
+cordis_data/
+
+# IDEs
+.idea/
+.vscode/
+*.swp
+*.swo

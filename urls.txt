@@ -1,0 +1,4 @@
+['https://cordis.europa.eu/data/cordis-HORIZONprojects-csv.zip']
+['https://cordis.europa.eu/data/cordis-HORIZONprojectPublications-csv.zip']
+['https://cordis.europa.eu/data/cordis-HORIZONprojectDeliverables-csv.zip']
+['https://cordis.europa.eu/data/cordis-HORIZONreports-csv.zip']
